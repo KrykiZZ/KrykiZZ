@@ -26,11 +26,11 @@ As a software developer, I enjoy using my skills to build strong and safe system
 <!--START_SECTION:waka-->
 
 ```txt
-C#            8 hrs 51 mins   ███████████████▒░░░░░░░░░   61.72 %
-SWIG          2 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.12 %
-XML           1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
-Assembly      1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
-Objective-C   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+C#            6 hrs 56 mins   ██████████████▓░░░░░░░░░░   58.53 %
+SWIG          2 hrs 14 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.87 %
+XML           1 hr 27 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
+Assembly      1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
+Objective-C   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
