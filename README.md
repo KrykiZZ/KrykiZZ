@@ -26,11 +26,11 @@ As a software developer, I enjoy using my skills to build strong and safe system
 <!--START_SECTION:waka-->
 
 ```txt
-C#               5 hrs 14 mins   ████████████░░░░░░░░░░░░░   48.59 %
-GDScript3        1 hr 36 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
-Assembly         1 hr 21 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-XML              1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-JavaScript       56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
+C#               6 hrs 42 mins   █████████████▓░░░░░░░░░░░   54.07 %
+Assembly         1 hr 26 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+GDScript3        1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
+XML              1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
+JavaScript       56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
 ```
 
 <!--END_SECTION:waka-->
