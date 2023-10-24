@@ -26,11 +26,11 @@ As a software developer, I enjoy using my skills to build strong and safe system
 <!--START_SECTION:waka-->
 
 ```txt
-C#               14 hrs 15 mins  ████████████████▒░░░░░░░░   65.77 %
-Prolog           1 hr 58 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
-XML              1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-SWIG             1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-TSQL             1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+C#               14 hrs 1 min    ████████████████▒░░░░░░░░   65.40 %
+Prolog           1 hr 40 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
+XML              1 hr 38 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+Assembly         1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+TSQL             1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
 ```
 
 <!--END_SECTION:waka-->
