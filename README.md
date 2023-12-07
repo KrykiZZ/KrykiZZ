@@ -28,7 +28,7 @@ As a software developer, I enjoy using my skills to build strong and safe system
 ```txt
 Binary   2 hrs 41 mins   ████████████▓░░░░░░░░░░░░   50.82 %
 C#       1 hr 40 mins    ████████░░░░░░░░░░░░░░░░░   31.70 %
-Other    45 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
+Other    45 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
 XML      7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 JSON     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
