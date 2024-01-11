@@ -11,8 +11,6 @@ I am a backend developer. I love programming, speaking and traveling.
 
 As a software developer, I enjoy using my skills to build strong and safe systems / applications to give people things that change the world. That's why I love programming.
 
-<img align="right" alt="GIF" src="https://github.com/KrykiZZ/KrykiZZ/blob/master/coding.gif?raw=true" width="408" height="318" />
-
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
