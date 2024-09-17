@@ -24,11 +24,11 @@ As a software developer, I enjoy using my skills to build strong and safe system
 <!--START_SECTION:waka-->
 
 ```txt
-C#       12 hrs 11 mins  ██████████████░░░░░░░░░░░   55.99 %
-Other    5 hrs 39 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.98 %
-Binary   3 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
-XML      19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-C        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+C#            18 hrs 8 mins   █████████████▒░░░░░░░░░░░   53.06 %
+Other         8 hrs 37 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.25 %
+Binary        7 hrs 4 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.69 %
+XML           19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Image (png)   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
