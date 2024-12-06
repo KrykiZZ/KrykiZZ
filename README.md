@@ -1,8 +1,6 @@
 ### Hi there, I'm <a href="https://kirakun.dev" target="_blank">Andrew</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=firefox&logoColor=white&color=orange)](https://kirakun.dev)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/KrykiZZ)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/KrykiZZ/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/krykizz)
 
 ### Glad to see you here!
