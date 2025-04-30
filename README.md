@@ -12,7 +12,7 @@ As a software developer, I enjoy using my skills to build strong and safe system
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Web Developmnt with ASP.NET, Computer Vision and Neural Networks;
+- 🚀 I’m currently learning Web Development with ASP.NET, Computer Vision and Neural Networks;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: <a href="https://t.me/krykizz" target="_blank">@KrykiZZ</a>;
 
