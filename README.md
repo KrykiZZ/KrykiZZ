@@ -12,7 +12,7 @@ As a software developer, I enjoy using my skills to build strong and safe system
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Rust;
+- 🚀 I’m currently learning Rust and web development;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: <a href="https://t.me/krykizz" target="_blank">@KrykiZZ</a>;
 
@@ -29,10 +29,3 @@ Image (png)   0 secs          ░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KrykiZZ&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrykiZZ&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
