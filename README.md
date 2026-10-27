@@ -22,11 +22,11 @@ As a software developer, I enjoy using my skills to build strong and safe system
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 10 mins          █████████████▒░░░░░░░░░░░   52.84 %
-Other        17 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 %
-C#           14 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-Git Config   11 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
-Binary       8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+Python       1 hr 31 mins          █████████▓░░░░░░░░░░░░░░░   38.94 %
+C#           1 hr 9 mins           ███████▒░░░░░░░░░░░░░░░░░   29.41 %
+Binary       20 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
+Text         15 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+Other        13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
 ```
 
 <!--END_SECTION:waka-->
